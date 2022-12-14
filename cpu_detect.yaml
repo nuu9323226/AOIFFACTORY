@@ -1,0 +1,15 @@
+train: ./data/cpu_data/train/images
+val: ./data/cpu_data/val/images
+
+nc: 2
+
+names: ['nonpaste','thermalpaste']
+
+
+
+
+
+
+
+
+

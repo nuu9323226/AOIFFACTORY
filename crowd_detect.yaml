@@ -1,0 +1,15 @@
+train: ./data/board_data/train/images
+val: ./data/board_data/val/images
+
+nc: 4
+
+names: ['padcover','pad','ledboard','pin']
+
+
+
+
+
+
+
+
+
